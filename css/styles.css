@@ -474,6 +474,19 @@ a {
   background-color: #31d0aa;
 }
 
+.footer-sub {
+  margin: 0 auto;
+}
+
+.footer-sup-para {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #ffffff;
+  margin-bottom: 16px;
+}
+
 .footer-form {
   display: flex;
   gap: 24px;
